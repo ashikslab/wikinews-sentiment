@@ -1,6 +1,3 @@
-# wikinews-sentiment
-Simple sentiment analyzer on wiki news (using Google Natural Language API)
-
 This is  simple set of programs for fetching the most recent headings from Wikipedia's
 Latest news section and running a sentiment analyzer (from the Google cloud natural language API) on it.
 Depending on the results, a text summary of the general feeling is printed.

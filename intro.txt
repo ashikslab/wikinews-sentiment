@@ -1,0 +1,21 @@
+
+
+But, why??
+
+
+================================================================================
+Here are the top news from wikipedia and the result of
+running the Google Natural Language API's sentiment analyzer on it.
+(The last couple of lines are the sum of individual values and an analysis of it):
+
+The wikipedia news is copied from https://en.wikipedia.org/wiki/Portal:Current_events
+and just used for the purpose of running the sentiment analyzer.
+
+
+The sentiment analyzer is a very basic one using the Google NLP API
+
+Hosted on Google Cloud
+(For source code and any other info, contact: ashik@ashikslab.in)
+
+================================================================================
+
